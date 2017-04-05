@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2016-09-01-paper-genRepParadigms
 venue: "Under Review"
 excerpt: 'The different paradigms of the representation of genome and rearrangement operators using permutations.'
-date: 2015-11-01
+date: 2016-11-01
 paperurl: https://arxiv.org/abs/1610.00077
 citation: 'Bhatia, Sangeeta, Pedro Feijão, and Andrew R. Francis. "Position and content paradigms in genome rearrangements: the wild and crazy world of permutations in genomics." arXiv preprint arXiv:1610.00077 (2016).'
 ---
