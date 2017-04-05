@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
+title: "Discrete Mathematics"
+collection: Lecture
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: 
+venue: "Western Sydney University, School of Computing, Engineering and Mathematics"
+date: 01-03-2017
+location: "Sydney, Australia"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,30 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Ph.D Algebraic Models of Genome Rearrangement, Western Sydney University, 2017 (expected)
+* M.S. Software Engineering, BITS Pilani, 2009
+* M.S. Applied Mathematics, University of Tulsa, 2011
+* B.Sc. Mathematics, Fergusson College, 2003
 
-Work experience
+Industry and Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017 Postdoctoral Research Associate at UNSW, Sydney
+* 2016 Postgraduate Studentship at CSIRO,Sydney
+* 2015 AMSI Intern at Geoscience Australia,Canberra
+* 2011 -- 2012 Software Engineer at The Tata Research Development and Design Centre,India
+* 2010 Summer Intern at The Centre for Artificial Intelligence and Robotics, Bangalore,India
+* 2004--2009 Software Engineer at Tech Mahindra Limited,India
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -42,18 +32,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
