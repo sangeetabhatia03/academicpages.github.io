@@ -18,6 +18,7 @@ Education
 
 Industry and Research Experience
 ======
+* 2017 Postdoctoral Research Associate at Imperial College, London
 * 2017 Postdoctoral Research Associate at UNSW, Sydney
 * 2016 Postgraduate Studentship at CSIRO,Sydney
 * 2015 AMSI Intern at Geoscience Australia,Canberra
