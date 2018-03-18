@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at Western Sydney University in Sydney, Australia. I have submitted my PhD thesis in January 2017 and at the moment, awaiting the dreaded examiners' reports. My PhD is in the esoteric field of Algebraic Biology. The elevator trip explanation is that I am working on building algebraic models for the ways in which large scale changes happen in an organism's genome.  Before moving to academia, I worked as a software engineer for around 5 years. 
+I am a Research Associate at Imperial College, London. I am working on developing a tool to quantify the risk of international spread of outbreaks.
+I completed my PhD from Western Sydney University in the esoteric field of Algebraic Biology. During my PhD, I worked on building algebraic models for the ways in which large scale changes happen in an organism's genome. Before moving to academia, I worked as a software engineer for around 5 years. 
 
 # Research Interests
 I am interested in probing biological systems using mathematical and computational tools. I've worked on a wide range of topics - from phylogenetics using algebraic methods to studying pain response using a convolution model. I'm always looking for exciting problems in the field of mathematical biology. 
