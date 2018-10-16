@@ -5,8 +5,8 @@ permalink: /publications/2018-03-15-paper-tomography
 venue: "International Journal of Greenhouse Gas Control "
 excerpt: ''
 date: 2018-03-15
-paperurl: https://www.sciencedirect.com/science/article/pii/S1750583617306862
-citation: 'Andrew Feitz, Ivan Schroder, Frances Phillips, Trevor Coates, Karita Neghandhi, Stuart Day, Ashok Luhar, Sangeeta Bhatia, Grant Edwards, Stefan Hrabar, Emili Hernandez, Brett Wood, Travis Naylor, Martin Kennedy, Murray Hamilton, Mike Hatch, John Malos, Mark Kochanek, Peter Reid, Joel Wilson, Nicholas Deutscher, Steve Zegelin, Robert Vincent, Stephen White, Cindy Ong, Suman George, Peter Maas, Sean Towner, Nicholas Wokker, David Griffith, The Ginninderra CH4 and CO2 release experiment: An evaluation of gas detection and quantification techniques, International Journal of Greenhouse Gas Control, Volume 70, March 2018, Pages 202-224, ISSN 1750-5836, https://doi.org/10.1016/j.ijggc.2017.11.018.'
+paperurl: https://doi.org/10.1016/j.ijggc.2017.11.018
+citation: 'Andrew Feitz, Ivan Schroder, Frances Phillips, Trevor Coates, Karita Neghandhi, Stuart Day, Ashok Luhar, Sangeeta Bhatia, Grant Edwards, Stefan Hrabar, Emili Hernandez, Brett Wood, Travis Naylor, Martin Kennedy, Murray Hamilton, Mike Hatch, John Malos, Mark Kochanek, Peter Reid, Joel Wilson, Nicholas Deutscher, Steve Zegelin, Robert Vincent, Stephen White, Cindy Ong, Suman George, Peter Maas, Sean Towner, Nicholas Wokker, David Griffith, The Ginninderra CH4 and CO2 release experiment: An evaluation of gas detection and quantification techniques, International Journal of Greenhouse Gas Control, Volume 70, March 2018, Pages 202-224, ISSN 1750-5836.'
 ---
 
 ## Abstract

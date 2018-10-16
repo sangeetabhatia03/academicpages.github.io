@@ -5,8 +5,8 @@ permalink: /publications/2016-09-01-paper-genRepParadigms
 venue: "Bulletin of Mathematical Biology"
 excerpt: 'The different paradigms of the representation of genome and rearrangement operators using permutations.'
 date: 2016-11-01
-paperurl: https://arxiv.org/abs/1610.00077
-citation: 'Bhatia, Sangeeta, Pedro Feijão, and Andrew R. Francis. "Position and content paradigms in genome rearrangements: the wild and crazy world of permutations in genomics." arXiv preprint arXiv:1610.00077 (2016).'
+paperurl: https://doi.org/10.1007/s11538-018-0514-3
+citation: 'Bhatia, S., Feijão, P. & Francis, A.R. Bull Math Biol (2018). https://doi.org/10.1007/s11538-018-0514-3'
 ---
 
 ## Abstract
