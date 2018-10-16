@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D Algebraic Models of Genome Rearrangement, Western Sydney University 
+* Ph.D Algebraic Models of Genome Rearrangement, Western Sydney University, 2018
 * M.S. Software Engineering, BITS Pilani, 2009
 * M.S. Applied Mathematics, University of Tulsa, 2011
 * B.Sc. Mathematics, Fergusson College, 2003
