@@ -6,7 +6,7 @@ venue: "Bulletin of Mathematical Biology"
 excerpt: 'The different paradigms of the representation of genome and rearrangement operators using permutations.'
 date: 2016-11-01
 paperurl: https://doi.org/10.1007/s11538-018-0514-3
-citation: 'Bhatia, S., Feijão, P. & Francis, A.R. Bull Math Biol (2018). https://doi.org/10.1007/s11538-018-0514-3'
+citation: 'Bhatia, S., Feijão, P. & Francis, A.R. Bull Math Biol (2018).'
 ---
 
 ## Abstract

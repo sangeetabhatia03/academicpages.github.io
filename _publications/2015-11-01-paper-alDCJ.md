@@ -6,7 +6,7 @@ venue: "Journal of Mathematical Biology"
 excerpt: 'An algebraic treatment of the double cut and join genome rearrangement operator'
 date: 2015-11-01
 paperurl: https://doi.org/10.1007/s00285-014-0852-1
-citation: 'Bhatia, S., Egri-Nagy, A. & Francis, A.R. J. Math. Biol. (2015) 71: 1149. https://doi.org/10.1007/s00285-014-0852-1'
+citation: 'Bhatia, S., Egri-Nagy, A. & Francis, A.R. J. Math. Biol. (2015) 71: 1149.'
 ---
 
 ## Abstract
